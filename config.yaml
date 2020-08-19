@@ -1,0 +1,2 @@
+database: "root:1qaz@WSX@tcp(10.10.4.72:3306)/ebookservice"
+port: 8993
